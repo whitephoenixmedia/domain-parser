@@ -1,11 +1,4 @@
 <?php
-/**
- * Copyright (c) White Phoenix Media Ltd.  All Rights Reserved.
- * Product Name: test
- * @author John Easton <john@whitephoenixmedia.co.uk>
- * @copyright 2005-2019 White Phoenix Media Ltd / John Easton
- * @license Proprietary and confidential
- */
 
 namespace WhitePhoenixMedia\Utilities\DomainParser;
 
